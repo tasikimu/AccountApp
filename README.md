@@ -1,4 +1,4 @@
 # AccountApp
 Banking App
 
-Simple banking app using Console App, to Deposit, Withdraw, Check available balance then Exit.
+Simple banking app, to Deposit, Withdraw, Check available balance then Exit with C# Console App.
